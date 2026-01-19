@@ -1,0 +1,15 @@
+{
+  "name": "rhymach-bot",
+  "version": "1.0.0",
+  "description": "Telegram-бот для подбора рифм",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.2"
+  },
+  "keywords": ["telegram", "bot", "rhymes"],
+  "author": "Рифма",
+  "license": "MIT"
+}
